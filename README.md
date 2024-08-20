@@ -4,6 +4,7 @@ I am a development engineer morphed into a sales professional. This is my script
 I have created Shell, Perl, Tcl, and as of late, Python scripts throughout my professional career. I am now a practitioner in a perpetual learning mode of data analysis and machine learning, as time permits. 
 
 Thanks for stopping by!
+
 Marlon Roa
 
 
