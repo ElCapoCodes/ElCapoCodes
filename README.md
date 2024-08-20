@@ -1,5 +1,5 @@
 Hello, 
-I am a <b>development engineer</b> morphed into a sales professional. This is my scripting alter-ego aiming to make my life easier and my job more productive via scripting tools. 
+I am a development engineer morphed into a sales professional. This is my scripting alter-ego aiming to make my life easier and my job more productive via scripting tools. 
 
 I have created Shell, Perl, Tcl, and now, Python scripts throughout my professional career. I am now a practitioner in a perpetual learning mode of data analysis and machine learning, as time permits. 
 
